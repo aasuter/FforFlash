@@ -1,0 +1,21 @@
+{
+    "type": "spell",
+    "format": "full",
+    "keys": {
+        "21" : "Barrier",
+        "1" : "Cleanse",
+        "14" : "Ignite",
+        "3" : "Exhaust",
+        "4" : "Flash",
+        "6" : "Ghost",
+        "7" : "Heal",
+        "13" : "Clarity",
+        "30" : "Poro Toss",
+        "31" : "Smite",
+        "11" : "Mark",
+        "39" : "Barrier",
+        "32" : "Barrier",
+        "12" : "Barrier",
+        "54" : "Barrier"
+    }
+}
